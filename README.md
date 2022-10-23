@@ -22,8 +22,8 @@
    > * [make_array_mod.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/mod/make_array_mod.s)
    > * [print_array_mod.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/mod/print_array_mod.s)
    ### Файл изменений:
-  
- 4. Проведено тестирование, результаты указаны в документе:
    > * [Список изменений](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/md-files/changes1.md)
-
+ 
+ ### 4. Проведено тестирование, результаты указаны в документе:
+  
 ## На 5 баллов:
