@@ -41,3 +41,4 @@
    > <br> make_array(const int *A, int len, int *B)
    > <br> print_array(int len, const int *B)
    
+ Так же используются локальные переменные.
