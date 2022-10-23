@@ -17,10 +17,10 @@
    > * [Переменные](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/Variables.md)
 
  ### 3. Программа промодифицирована флагами компиляции, затем изменена вручную:
-   > * [main_mod.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/default/main.s)
-   > * [input_array_mod.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/default/input_array.s)
-   > * [make_array_mod.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/default/make_array.s)
-   > * [print_array_mod.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/default/print_array.s)
+   > * [main_mod.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/mod/main_mod.s)
+   > * [input_array_mod.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/mod/input_array_mod.s)
+   > * [make_array_mod.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/mod/make_array_mod.s)
+   > * [print_array_mod.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/mod/print_array_mod.s)
    ### Файл изменений:
   
  4. Проведено тестирование, результаты указаны в документе:
