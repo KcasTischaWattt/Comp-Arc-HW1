@@ -13,8 +13,8 @@
    > * [make_array.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/default/make_array.s)
    > * [print_array.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/default/print_array.s)
    
-   <br> Вот файлик со всеми переменными для удобства:
-   > * [Переменные](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/Variables.md)
+   <br>  Вот файлик со всеми переменными для удобства:
+   > *  [Переменные](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/Variables.md)
 
  3. Программа промодифицирована флагами компиляции, затем изменена вручную:
 
