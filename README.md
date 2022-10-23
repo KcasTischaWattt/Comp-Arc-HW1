@@ -53,3 +53,14 @@
    > * [input_array_mod_func.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/func/input_array_mod_func.s)
    > * [make_array_mod_func.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/func/make_array_mod_func.s)
    > * [print_array_mod_func.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/func/print_array_mod_func.s)
+
+## На 6 баллов:
+
+### 1. Рефакторинг программы на ассемблере за счёт максимального использования регистров процессора:
+ > Вместо итерационной переменной i во всех файлах используется регистр r12d
+ > <br> Замена остальных переменных не удалась, приводила к ошибкам компиляции или Seg fault
+ 
+   > * [main_mod_reg.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/reg/input_array_mod_reg.s)
+   > * [input_array_mod_reg.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/reg/input_array_mod_reg.s)
+   > * [make_array_mod_reg.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/reg/make_array_mod_reg.s)
+   > * [print_array_mod_reg.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/reg/print_array_mod_reg.s)
