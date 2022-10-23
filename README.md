@@ -35,8 +35,9 @@
    > * [input_array.c](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/C-files/input_array.c)
    > * [make_array.c](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/C-files/make_array.c)
    > * [print_array.c](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/C-files/print_array.c)
-   <br> Функции, присутствующие в программе:
-   > <br>  input_array(int *A, int len)
-   > <br>  make_array(const int *A, int len, int *B)
+
+Функции, присутствующие в программе:
+   > input_array(int *A, int len)
+   > <br> make_array(const int *A, int len, int *B)
    > <br> print_array(int len, const int *B)
    
