@@ -1,5 +1,8 @@
 # Comp-Arc-HW1
 
+<br> Вариант 29.
+<br> Работа выполнена Татауровым Матвеем, БПИ 217 на оценку 6.
+
 ## На 4 балла:
  ### 1. Приведено решение задачи на С:
    > * [main.c](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/C-files/main.c)
