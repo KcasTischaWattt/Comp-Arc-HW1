@@ -29,3 +29,9 @@
  
   
 ## На 5 баллов:
+
+### 1. Приведено решение задачи на С с передачей данных в функйии через параметры и использоваанием локаальных переменных:
+   > * [main.c](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/C-files/main.c)
+   > * [input_array.c](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/C-files/input_array.c)
+   > * [make_array.c](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/C-files/make_array.c)
+   > * [print_array.c](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/C-files/print_array.c)
