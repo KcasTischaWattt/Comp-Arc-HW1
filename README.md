@@ -48,3 +48,8 @@
   > <br> rsi/esi - второй аргумент в функции
   > <br> rdx/edx - третий агумент функции
   > <br> eax/rax - регистры для запоминания данных
+  
+   > * [main_mod_func.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/func/main_mod_func.s)
+   > * [input_array_mod_func.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/func/input_array_mod_func.s)
+   > * [make_array_mod_func.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/func/make_array_mod_func.s)
+   > * [print_array_mod_func.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/func/print_array_mod_func.s)
