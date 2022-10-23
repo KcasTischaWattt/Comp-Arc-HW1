@@ -24,6 +24,8 @@
    ### Файл изменений:
    > * [Список изменений](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/md-files/changes1.md)
  
- ### 4. Проведено тестирование, результаты указаны в документе:
+ ### 4. Проведено тестирование, результаты указаны в [документе](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/tests.md)
+ 
+ 
   
 ## На 5 баллов:
