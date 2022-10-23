@@ -23,7 +23,6 @@ input_array:
 .L6:
 	mov	eax, DWORD PTR -4[rbp]
 	mov	esi, eax
-	# mov 	esi, DWORD PTR -4[rbp]
 	lea	rdi, .LC0[rip]
 	mov	eax, 0
 	call	printf@PLT
@@ -58,7 +57,6 @@ input_array:
 	mov	esi, eax
 	mov	eax, DWORD PTR [rax]
 	mov	esi, eax
-	# mov esi, DWORD PTR [rax]
 	lea	rdi, .LC2[rip]
 	mov	eax, 0
 	call	printf@PLT
