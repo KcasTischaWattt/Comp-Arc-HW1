@@ -64,3 +64,4 @@
    > * [input_array_mod_reg.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/reg/input_array_mod_reg.s)
    > * [make_array_mod_reg.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/reg/make_array_mod_reg.s)
    > * [print_array_mod_reg.s](https://github.com/KcasTischaWattt/Comp-Arc-HW1/blob/main/asm-files/reg/print_array_mod_reg.s)
+### 2. Программаа была протестирована, результаты указаны в документе
