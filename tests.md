@@ -51,26 +51,26 @@
 ### <br>Тест 1:
 <br> 5
 <br> 1 2 -4 3 0
-<br> ![](Tests/Orig_test_1.png)
+<br> ![](Tests/Reg_test_1.png)
 
 ### <br>Тест 2:
 <br> 5
 <br> 1 -3 -6 2 -5
-<br> ![](Tests/Orig_test_2.png)
+<br> ![](Tests/Reg_test_2.png)
 
 ### <br>Тест 3:
 <br> 10
 <br> 0 3 4 3 2 0 1 4 8 5
-<br> ![](Tests/Orig_test_3.png)
+<br> ![](Tests/Reg_test_3.png)
 
 ### <br>Тест 4:
 <br> 5
 <br> 917 826 -998 713 602 588
-<br> ![](Tests/Orig_test_4.png)
+<br> ![](Tests/Reg_test_4.png)
 
 ### <br>Тест 5:
 <br> Некорректные данные
-<br> ![](Tests/Orig_test_5.png)
+<br> ![](Tests/Reg_test_5.png)
 
 Как видим, результаты всех прогонов абсолютно идентичны прогонам в тестаах на 4 балла, значит, изменение и оптимизация кода проведены верно.
 
