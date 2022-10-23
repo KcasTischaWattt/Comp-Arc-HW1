@@ -24,17 +24,19 @@
 <br> -92 - length
 
 # input_array:
-
+<br> -24 - указатeль на массив A[]
+<br> -28 - len
+<br> -4 - i (в for)
 
 # make_array:
 <br> -24 - указатeль на массив A[]
 <br> -28 - len
 <br> -40 - указатeль на массив B[]
 <br> -12 - Bm
-<br> - -8 - i (в первом for)
-<br> - -4 - i (во втором for)
+<br> -8 - i (в первом for)
+<br> -4 - i (во втором for)
 
 # print_array:
-<br>-24 = указатeль на массив B[]
-<br>-28 = length
-<br>-4 = i в for c printf("%d ", B[i]);
+<br> -28 - len
+<br> -40 - указатeль на массив B[]
+<br> -4 - i (в for)
