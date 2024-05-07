@@ -1,5 +1,11 @@
 # Comp-Arc-HW1
 
+Другие работы:
+> * [https://github.com/KcasTischaWattt/Comp-Arc-HW2](https://github.com/KcasTischaWattt/Comp-Arc-HW2)
+> * [https://github.com/KcasTischaWattt/Comp-Arc-HW3](https://github.com/KcasTischaWattt/Comp-Arc-HW3)
+> * [https://github.com/KcasTischaWattt/Comp-Arc-HW4](https://github.com/KcasTischaWattt/Comp-Arc-HW4)
+
+
 <br> Вариант 29.
 <br> Работа выполнена Татауровым Матвеем, БПИ 217 на оценку 6.
 
